@@ -1,0 +1,28 @@
+mat-card{
+    max-width: 500px;
+    min-width: 200px;
+    margin: 0 auto;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button
+{
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+form{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.botoes{
+    margin-top: 20px;
+    width: auto;
+    display: flex;
+    justify-content: flex-end;
+}
+.botoes button{
+    margin-left: 10px;
+}

@@ -1,0 +1,44 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Caneta BIC Preta",
+      "preco": 5.89
+    },
+    {
+      "id": 2,
+      "nome": "Caneta BIC Azul",
+      "preco": 5.79
+    },
+    {
+      "id": 3,
+      "nome": "Caneta BIC Vermelha",
+      "preco": 5.69
+    },
+    {
+      "nome": "Caneta Teste",
+      "preco": 144.49,
+      "id": 6
+    },
+    {
+      "nome": "Caneta BIC verde",
+      "preco": "8.55",
+      "id": 7
+    },
+    {
+      "nome": "Caneta BIC rosa",
+      "preco": "5.55",
+      "id": 8
+    },
+    {
+      "nome": "Notebook DELL",
+      "preco": "3500.00",
+      "id": 9
+    },
+    {
+      "nome": "teste",
+      "preco": 234345,
+      "id": 10
+    }
+  ]
+}

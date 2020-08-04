@@ -1,0 +1,17 @@
+table{
+    width: 100%;
+    padding: 20px;
+}
+.acao{
+    text-align: center;
+}
+
+td.botoes-acao{
+    text-align: center;
+}
+.item-produto{
+    margin-bottom: 10px;
+}
+.item-produto:last-child{
+    margin-bottom: 0;
+}

@@ -1,0 +1,11 @@
+mat-card{
+    max-width: 500px;
+    min-width: 200px;
+    margin: 0 auto;
+}
+
+form{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
